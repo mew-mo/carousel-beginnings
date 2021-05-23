@@ -3,7 +3,7 @@
   const config = {
     type: 'carousel',
     // carousel makes sure it wont swivel back to the first one!!
-    autoplay: 40000,
+    autoplay: 4000,
     focusAt: 'center',
     keyboard: true,
     swipeThreshold: 50
