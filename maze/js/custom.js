@@ -332,6 +332,9 @@
       stars.children[i].classList.toggle('invisi');
     }
     wonWin.classList.toggle('invisi');
+    
+    // Run completion code
+    runCompletion();
   }
 
 }());
